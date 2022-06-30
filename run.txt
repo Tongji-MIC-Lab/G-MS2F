@@ -1,0 +1,7 @@
+
+This code if for the paper "G-MS2F: GoogLeNet Based Multi-Stage Feature Fusion of Deep CNN for Scene Recognition". There are 2 folders for implementation.
+
+1. caffe-master-tpj: The folder includes all the files of toolkit caffe. The installation can be followed by the official turtorial on "http://caffe.berkeleyvision.org/". 
+
+2. MIT: It is an example to exhibit the utilization of G-MS2F. The "MIT_googlenet_place205_withpre_relu" and "MIT_googlenet_place205_withpre_relu_independent" include the deploy.prototxt, solver.prototxt and a few of score files; The "Model-F" includes the features of images, fusion code, wegihts and feature maps vualization code; The "Model-S" contains the code that is for scores fusion. And the "pre-process" is just for the dataset split
+

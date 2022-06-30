@@ -1,0 +1,10 @@
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/gameroom_bt_132294gameroom2.jpg 53
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/poolinside_inside_pool_and_hot_tub.jpg 0
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/winecellar_bodega_12_11_flickr.jpg 1
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/casino_casino_0512.jpg 2
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/livingroom_living58.jpg 3
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/mall_4984307.jpg 4
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/corridor_pasilltmpo_t.jpg 5
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/laboratorywet_laboratorio_quimica_07_05_altavista.jpg 6
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/bookstore_CIMG2743.jpg 7
+/home/tj/tpj/mltask/MIT/MIT_train_img_256/casino_casino_0044.jpg 2
