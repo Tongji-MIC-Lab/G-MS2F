@@ -63,3 +63,4 @@ Pengjie Tang, Hanli Wang, and Sam Kwong, G-MS2F: GoogLeNet Based Multi-Stage Fea
 In the paper (Pengjie Tang, Hanli Wang, and Sam Kwong, G-MS2F: GoogLeNet Based Multi-Stage Feature Fusion of Deep CNN for Scene Recognition, Neurocomputing, vol. 225, pp. 188-197, Feb. 2017, DOI: 10.1016/j.neucom.2016.11.023), the information of reference [13] in the published version is incorrect. The correct reference information is:
 
 [13] S. Lazebnik, C. Schmid, and J. Ponce, Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories, in: IEEE Conference on Computer Vision and Pattern Recognition, IEEE, Boston, MA, USA, 2006, pp. 2169-2178.
+
